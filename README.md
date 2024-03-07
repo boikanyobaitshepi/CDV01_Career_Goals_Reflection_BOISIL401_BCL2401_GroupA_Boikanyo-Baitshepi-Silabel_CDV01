@@ -1,6 +1,6 @@
 ### Personal Information
 
-- **Name: Kagiso Legodi**
+- **Name: Kagiso Legodi
 - **Date: 05/03/2024**
 - **Current Role/Position: Learner Developer**
 - **Field of Interest: Web Development**
